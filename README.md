@@ -42,8 +42,8 @@
 <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
 
  ### I am a Self-taught Programmer; 🤩 &nbsp;
-- 🔭 I’m currently looking at the mars
-- 🌱 I’m currently learning Docker
+- 🔭 Looking for freelance opportunities
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on [Awesome Cheatsheet](https://github.com/ohidurbappy/awesome-cheatsheet)
 - 💬 Ask me about anything [here](https://github.com/ohidurbappy/ohidurbappy/issues)
 - 📫 How to reach me: me@ohidur.com <br>
@@ -87,13 +87,6 @@
  -->
  
  
- 
- ### Activity Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ohidurbappy&theme=react-dark&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
  
